@@ -1,0 +1,17 @@
+best_model:
+  model_path: C:\Users\shrav\Documents\iNuron\Machine Learning\Project\machine_learning_project-main\housing\artifact\model_trainer\2022-07-17-00-42-38\trained_model\model.pkl
+history:
+  2022-07-16-11-35-10:
+    model_path: C:\Users\shrav\Documents\iNuron\Machine Learning\Project\machine_learning_project-main\housing\artifact\model_trainer\2022-07-16-11-32-52\trained_model\model.pkl
+  2022-07-16-11-38-48:
+    model_path: C:\Users\shrav\Documents\iNuron\Machine Learning\Project\machine_learning_project-main\housing\artifact\model_trainer\2022-07-16-11-35-10\trained_model\model.pkl
+  2022-07-16-11-40-21:
+    model_path: C:\Users\shrav\Documents\iNuron\Machine Learning\Project\machine_learning_project-main\housing\artifact\model_trainer\2022-07-16-11-38-48\trained_model\model.pkl
+  2022-07-16-12-06-49:
+    model_path: C:\Users\shrav\Documents\iNuron\Machine Learning\Project\machine_learning_project-main\housing\artifact\model_trainer\2022-07-16-11-40-21\trained_model\model.pkl
+  2022-07-16-14-43-42:
+    model_path: C:\Users\shrav\Documents\iNuron\Machine Learning\Project\machine_learning_project-main\housing\artifact\model_trainer\2022-07-16-12-06-49\trained_model\model.pkl
+  2022-07-17-00-38-59:
+    model_path: C:\Users\shrav\Documents\iNuron\Machine Learning\Project\machine_learning_project-main\housing\artifact\model_trainer\2022-07-16-14-43-42\trained_model\model.pkl
+  2022-07-17-00-42-38:
+    model_path: C:\Users\shrav\Documents\iNuron\Machine Learning\Project\machine_learning_project-main\housing\artifact\model_trainer\2022-07-17-00-38-59\trained_model\model.pkl
