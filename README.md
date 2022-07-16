@@ -1,7 +1,7 @@
 # MBA-ISDE-ML-REG-AND-CLASSIFICATION
 
 Application url:
-[HousingPredictor](https://ml-regression-app.herokuapp.com/)
+[HousingPredictor](https://ml-reg-class-1.herokuapp.com/)
 
 ## Start Machine Learning project.
 
